@@ -5,6 +5,7 @@ rough plan (maybe use shapecollage for letters):
 2. Show the photos
 3. Show the algorithms
 4. Show the narration
+5. Show the Mentors
 
 * Along the way mention narrating your work, using a glue language and have fun!
 * mistakes happen
@@ -14,6 +15,7 @@ rough plan (maybe use shapecollage for letters):
 * narrate your work daily
 * r is the ultimate prototyping environment for "small" data
 * have a mentor in your town / in your skype 
+* perhaps use barcodes as background images? or as vertical dividers?
 
 ## PROGRESS 30 March 2016
 1. used ```ln -s``` in an xargs loop to get 3000 files since dragging and dropping from a directory with a million files doesn't work very well at all
