@@ -8,10 +8,11 @@ rough plan (maybe use shapecollage for letters):
 
 * Along the way mention narrating your work, using a glue language and have fun!
 * mistakes happen
-* everything breaks (apis, databases, languages, you name it)
+* everything breaks (APIs, databases, languages, you name it; OS eg. OS X can't handle 1 million files gracefully)
+* do you need a database? at scale you do!?! YAGNI for small datasets; avoid impedance mismatches if the data is JSON leave it in JSON
 * glue code you need it
 * narrate your work daily
-* r is the ultimate prototyping environment
+* r is the ultimate prototyping environment for "small" data
 * have a mentor in your town / in your skype 
 
 ## PROGRESS 30 March 2016
