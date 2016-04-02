@@ -6,7 +6,13 @@ rough plan (maybe use shapecollage for letters):
 3. Show the algorithms
 4. Show the narration
 
-Along the way mention narrating your work, using a glue language and have fun!
+* Along the way mention narrating your work, using a glue language and have fun!
+* mistakes happen
+* everything breaks (apis, databases, languages, you name it)
+* glue code you need it
+* narrate your work daily
+* r is the ultimate prototyping environment
+* have a mentor in your town / in your skype 
 
 ## PROGRESS 30 March 2016
 1. used ```ln -s``` in an xargs loop to get 3000 files since dragging and dropping from a directory with a million files doesn't work very well at all
