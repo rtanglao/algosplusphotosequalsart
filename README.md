@@ -1,8 +1,11 @@
 # Roland's UBC Visualizing Vancouver Visuals Talk April 4, 2016
 1. [PDF](https://www.dropbox.com/s/ocv6y3mmbplab7o/photosplusalogorithms%3Dart.pdf?dl=0), [Keynote](https://www.dropbox.com/s/4r3jg1vcezk4t8c/photosplusalogorithms%3Dart.key?dl=0), [vvv on flickr](https://flickr.com/roland/tags/rolandtanglaoinfoviz)
+2. datasets (To Be Done! links will be added April 5, 2016)
 2. questions, comments? Please [file a github issue](https://github.com/rtanglao/algosplusphotosequalsart/issues/new) or email roland AT rolandtanglao.com
+
 <hr />
 **THE FOLLOWING MATERIAL IS OBSOLETE PLEASE IGNORE** :-)
+
 ## 04 April 2016 Algorithms + Photos = art
 rough plan (maybe use shapecollage for letters):
 
