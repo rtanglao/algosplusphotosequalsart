@@ -1,6 +1,8 @@
 # Roland's UBC Visualizing Vancouver Visuals Talk April 4, 2016
 1. [PDF](https://www.dropbox.com/s/ocv6y3mmbplab7o/photosplusalogorithms%3Dart.pdf?dl=0), [Keynote](https://www.dropbox.com/s/4r3jg1vcezk4t8c/photosplusalogorithms%3Dart.key?dl=0), [vvv on flickr](https://flickr.com/roland/tags/rolandtanglaoinfoviz)
-2. datasets (To Be Done! links will be added April 5, 2016)
+2. datasets:
+    3. [instagram vancover 2015 CSV file with top colour, lat, long, date](https://github.com/rtanglao/rtgram/blob/master/13March2016-abbreviated-instagram-vancouver-top-colour-lat-long-date-2015.csv.gz)
+1. The missing video: [Vancouver Instagram 2015 top colour 365 ggmaps 1 week per second i.e. 7 fps](https://www.flickr.com/photos/roland/25318716224)
 2. questions, comments? Please [file a github issue](https://github.com/rtanglao/algosplusphotosequalsart/issues/new) or email roland AT rolandtanglao.com
 
 <hr />
