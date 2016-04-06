@@ -6,6 +6,14 @@
 2. questions, comments? Please [file a github issue](https://github.com/rtanglao/algosplusphotosequalsart/issues/new) or email roland AT rolandtanglao.com
 
 <hr />
+# After UBCDSD now what :-) ?
+## 05 April 2015
+1. convert from ruby + R to all R? add in gganimate?
+2. convert to Shiny?
+3. visualize Anthony's Firefox Android mobile dataset using R?
+4. Use Mark Johnson's music algorithms?
+
+<hr />
 **THE FOLLOWING MATERIAL IS OBSOLETE PLEASE IGNORE** :-)
 
 ## 04 April 2016 Algorithms + Photos = art
