@@ -11,7 +11,7 @@
 1. convert from ruby + R to all R? add in gganimate?
 2. convert to Shiny?
 3. visualize Anthony's Firefox Android mobile dataset using R?
-4. Use Mark Johnson's music algorithms?
+4. Use [@ecohydrologist](https://twitter.com/ecohydrologist) aka Mark Johnson's music algorithms?
 
 <hr />
 **THE FOLLOWING MATERIAL IS OBSOLETE PLEASE IGNORE** :-)
