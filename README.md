@@ -7,12 +7,15 @@
 
 <hr />
 # After UBCDSD now what :-) ?
-## 05 April 2015
+## 05 April 2016
 1. convert from ruby + R to all R? add in gganimate?
 2. convert to Shiny?
 3. visualize Anthony's Firefox Android mobile dataset using R?
 4. Use [@ecohydrologist](https://twitter.com/ecohydrologist) aka Mark Johnson's music algorithms?
 
+## 06 April 2016
+
+1. going to start with gganimate
 <hr />
 **THE FOLLOWING MATERIAL IS OBSOLETE PLEASE IGNORE** :-)
 
