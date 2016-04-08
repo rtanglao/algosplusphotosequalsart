@@ -13,9 +13,12 @@
 3. visualize Anthony's Firefox Android mobile dataset using R?
 4. Use [@ecohydrologist](https://twitter.com/ecohydrologist) aka Mark Johnson's music algorithms?
 
-## 06 April 2016
+## 07 April 2016
 
 1. going to start with gganimate
+## 08 April 2016
+1. I think I am not going to be able to do anything while I am away from Vancouver!
+
 <hr />
 **THE FOLLOWING MATERIAL IS OBSOLETE PLEASE IGNORE** :-)
 
