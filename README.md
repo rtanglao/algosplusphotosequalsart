@@ -16,6 +16,7 @@
 ## 07 April 2016
 
 1. going to start with gganimate
+
 ## 08 April 2016
 1. I think I am not going to be able to do anything while I am away from Vancouver!
 
