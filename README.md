@@ -24,7 +24,7 @@
 
 1. is it just a matter of using ```frame =``` instead of a facet? sounds almost too easy :-):
     2. http://www.ggplot2-exts.org/gganimate.html
-    3. i.e. use gganimate with ```frame=date``` using the datas structure from my faceted qplot
+    3. i.e. use gganimate with ```frame=date``` using the data structure from my faceted qplot
 
  ```R
  f="~rtanglao/Dropbox/GIT/rtgram/13March2016-abbreviated-instagram-vancouver-top-colour-lat-long-date-2015.csv"
