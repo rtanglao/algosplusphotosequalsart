@@ -24,6 +24,16 @@
 
 1. is it just a matter of using ```frame =``` instead of a facet? sounds almost too easy :-):
     2. http://www.ggplot2-exts.org/gganimate.html
+    3. i.e. use gganimate with ```frame=date``` using the datas structure from my faceted qplot
+
+ ```R
+ f="~rtanglao/Dropbox/GIT/rtgram/13March2016-abbreviated-instagram-vancouver-top-colour-lat-long-date-2015.csv"
+ data6 = read.csv(file=f,stringsAsFactors=F)
+ (p <- qplot(long, lat, geom = "point", data = data6,
+color=I(data6$color), xlim=c(-123.27, -123.005),
+ylim=c(49.21, 49.324), size=I(1.0), alpha=I(0.4))+
+facet_wrap(~date) + theme_minimal())
+ ```
 
 <hr />
 **THE FOLLOWING MATERIAL IS OBSOLETE PLEASE IGNORE** :-)
