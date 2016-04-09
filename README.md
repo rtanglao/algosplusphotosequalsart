@@ -20,6 +20,10 @@
 ## 08 April 2016
 1. I think I am not going to be able to do anything while I am away from Vancouver!
 
+## 09 April 2016
+
+1. is it just a matter of using ```frame =``` instead of a facet? sounds almost too easy :-)
+
 <hr />
 **THE FOLLOWING MATERIAL IS OBSOLETE PLEASE IGNORE** :-)
 
