@@ -22,7 +22,8 @@
 
 ## 09 April 2016
 
-1. is it just a matter of using ```frame =``` instead of a facet? sounds almost too easy :-)
+1. is it just a matter of using ```frame =``` instead of a facet? sounds almost too easy :-):
+    2. http://www.ggplot2-exts.org/gganimate.html
 
 <hr />
 **THE FOLLOWING MATERIAL IS OBSOLETE PLEASE IGNORE** :-)
