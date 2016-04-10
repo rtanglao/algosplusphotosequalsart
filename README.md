@@ -47,7 +47,8 @@ facet_wrap(~date) + theme_minimal())
  ylim=c(49.21, 49.324), size=I(1.0), alpha=I(0.4),
  frame=date)+
  theme_minimal())
- ```R 
+ ```
+ 
 ```Error: Unknown parameters: frame```
 
 1. it appears I have to use ggplot and not qplot? how to convert:
