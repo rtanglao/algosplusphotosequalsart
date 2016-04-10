@@ -38,6 +38,7 @@ facet_wrap(~date) + theme_minimal())
 ## 10 April 2016
 
 1. The following didn't work:
+
  ```R
  library(devtools)
  devtools::install_github("dgrtwo/gganimate")
