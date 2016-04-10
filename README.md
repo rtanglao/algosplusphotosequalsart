@@ -35,6 +35,25 @@ ylim=c(49.21, 49.324), size=I(1.0), alpha=I(0.4))+
 facet_wrap(~date) + theme_minimal())
  ```
 
+## 10 April 2016
+
+1. The following didn't work:
+ ```R
+ library(devtools)
+ devtools::install_github("dgrtwo/gganimate")
+ library(gganimate)
+ (p <- qplot(long, lat, geom = "point", data = data6,
+ color=I(data6$color), xlim=c(-123.27,-123.005),
+ ylim=c(49.21, 49.324), size=I(1.0), alpha=I(0.4),
+ frame=date)+
+ theme_minimal())
+ ```R 
+```Error: Unknown parameters: frame```
+
+1. it appears I have to use ggplot and not qplot? how to convert:
+    * http://stackoverflow.com/questions/5322836/choosing-between-qplot-and-ggplot-in-ggplot2
+    * http://ggplot2.org/book/appendices.pdf
+
 <hr />
 **THE FOLLOWING MATERIAL IS OBSOLETE PLEASE IGNORE** :-)
 
