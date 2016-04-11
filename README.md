@@ -55,6 +55,7 @@ facet_wrap(~date) + theme_minimal())
 1. it appears I have to use ggplot and not qplot? how to convert:
     * http://stackoverflow.com/questions/5322836/choosing-between-qplot-and-ggplot-in-ggplot2
     * http://ggplot2.org/book/appendices.pdf
+    * [a more sophisticated LOESS example from david robinson](http://varianceexplained.org/files/loess.html)
 
 <hr />
 **THE FOLLOWING MATERIAL IS OBSOLETE PLEASE IGNORE** :-)
