@@ -56,7 +56,8 @@ facet_wrap(~date) + theme_minimal())
     * http://stackoverflow.com/questions/5322836/choosing-between-qplot-and-ggplot-in-ggplot2
     * http://ggplot2.org/book/appendices.pdf
     * [a more sophisticated LOESS example from david robinson](http://varianceexplained.org/files/loess.html)
-    * [animate seattle bicycle share stamen toner-lite map](https://github.com/briandconnelly/pronto)
+    * [animate pronto seattle bicycle share stamen toner-lite map](https://github.com/briandconnelly/pronto)
+    * [how to generate an MP4](https://github.com/masalmon/Ropenaq/blob/master/vignettes/animated-map.Rmd)
 
 <hr />
 **THE FOLLOWING MATERIAL IS OBSOLETE PLEASE IGNORE** :-)
