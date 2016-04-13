@@ -59,6 +59,10 @@ facet_wrap(~date) + theme_minimal())
     * [animate pronto seattle bicycle share stamen toner-lite map](https://github.com/briandconnelly/pronto)
     * [how to generate an MP4](https://github.com/masalmon/Ropenaq/blob/master/vignettes/animated-map.Rmd)
 
+## 14 April 2016 - plan
+
+1. convert https://github.com/rtanglao/ig-ggmap/blob/master/plot1-day-ig-van-2015-pointsize1.0.alph0.4.R to ggplot instead of qplot
+
 <hr />
 **THE FOLLOWING MATERIAL IS OBSOLETE PLEASE IGNORE** :-)
 
