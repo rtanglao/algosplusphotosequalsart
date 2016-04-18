@@ -63,6 +63,10 @@ facet_wrap(~date) + theme_minimal())
 
 1. convert https://github.com/rtanglao/ig-ggmap/blob/master/plot1-day-ig-van-2015-pointsize1.0.alph0.4.R to ggplot instead of qplot
 
+## 17 April 2016 - back from Germany - more examples
+
+1. another great illustrative ggplot example: https://rud.is/b/2016/04/17/ggplot2-exercising-with-ggalt-dumbbells/
+
 <hr />
 **THE FOLLOWING MATERIAL IS OBSOLETE PLEASE IGNORE** :-)
 
